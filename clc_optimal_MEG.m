@@ -32,7 +32,8 @@ c3   = 4e-3; % time between end of 2nd lobe to TE
 
 
 % ===========================================================================
-SNR_base = 5.9723; % normalization factor from following parameters
+SNR_base = 5.9723; % normalization factor from following parameters 
+                   % obtained with Gmax 45mT/m and S = 200T/m/s bipolar
 % 
 % ===========================================================================
 % SNR   = 20;                  % [a.u.]
