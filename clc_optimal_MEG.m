@@ -104,7 +104,6 @@ for tt = 1:size(t_vec,2)
         G_eff   = G0;
         delta_u = t_MEG - r;    % flat top + r
     end
-    delta_u    = t_MEG - r;
     Delta      = t_MEG + c2;
     area_lobe  = G_eff*delta_u;
     
